@@ -1,0 +1,18 @@
+[submodule "click"]
+	path = click
+	url = git@bitbucket.org:pluo/viro-click.git
+[submodule "datagen"]
+	path = datagen
+	url = git@bitbucket.org:pluo/viro-datagen.git
+[submodule "emujava"]
+	path = emujava
+	url = git@bitbucket.org:pluo/viro-emujava.git
+[submodule "emupy"]
+	path = emupy
+	url = git@bitbucket.org:pluo/viro-emupy.git
+[submodule "monitor"]
+	path = monitor
+	url = git@bitbucket.org:pluo/viro-monitor.git
+[submodule "testdata"]
+	path = testdata
+	url = git@bitbucket.org:pluo/viro-testdata.git
