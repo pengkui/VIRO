@@ -1,21 +1,21 @@
 [submodule "click"]
 	path = click
-	url = git@bitbucket.org:pluo/viro-click.git
+	url=git@github.com:pengkui/viro-click.git
 [submodule "datagen"]
 	path = datagen
-	url = git@bitbucket.org:pluo/viro-datagen.git
+	url=git@github.com:pengkui/viro-datagen.git
 [submodule "emujava"]
 	path = emujava
-	url = git@bitbucket.org:pluo/viro-emujava.git
+	url=git@github.com:pengkui/viro-emujava.git
 [submodule "emupy"]
 	path = emupy
-	url = git@bitbucket.org:pluo/viro-emupy.git
+	url=git@github.com:pengkui/viro-emupy.git
 [submodule "monitor"]
 	path = monitor
-	url = git@bitbucket.org:pluo/viro-monitor.git
+	url=git@github.com:pengkui/viro-monitor.git
 [submodule "testdata"]
 	path = testdata
-	url = git@bitbucket.org:pluo/viro-testdata.git
+	url=git@github.com:pengkui/viro-testdata.git
 [submodule "csci5221s13"]
 	path = csci5221s13
-	url = git@bitbucket.org:pluo/viro-csci5221s13.git
+	url=git@github.com:pengkui/viro-csci5221s13.git
