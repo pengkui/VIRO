@@ -16,3 +16,6 @@
 [submodule "testdata"]
 	path = testdata
 	url = git@bitbucket.org:pluo/viro-testdata.git
+[submodule "csci5221s13"]
+	path = csci5221s13
+	url = git@bitbucket.org:pluo/viro-csci5221s13.git
